@@ -9,6 +9,8 @@
   --light-yellow-item : #ccc16d;
   --light-red-item : #cc6d6d;
   --light-purple-item : #a46dcc;
+  --light-orange-item : #d4ac5a;
+  --light-cyan-item : #6dc9cc;
   --pink-text : #cd3ef1;
   --background1 : #255439;
   --background2 : #265e2c;
@@ -286,6 +288,14 @@ body {
 
 #group-icon {
   fill: var(--light-green-item);
+}
+
+#pet-icon {
+  fill: var(--light-orange-item);
+}
+
+#investment-icon {
+  fill: var(--light-cyan-item);
 }
 
 #shopping-icon {
